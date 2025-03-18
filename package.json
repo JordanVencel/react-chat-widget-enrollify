@@ -1,10 +1,10 @@
 {
-  "name": "react-chat-widget",
-  "version": "3.1.4",
-  "description": "Chat web widget for React apps",
+  "name": "react-chat-widget-enrollify",
+  "version": "3.1.5",
+  "description": "Chat web widget for React apps, customized for Enrollify",
   "main": "lib/index.js",
-  "repository": "git@github.com:Wolox/react-chat-widget.git",
-  "author": "Martín Callegari <martin.callegari@wolox.com.ar>",
+  "repository": "git@github.com:JordanVencel/react-chat-widget-enrollify.git",
+  "author": "Jordan Martinez <jordan.martinez@onetechnology.com>",
   "license": "MIT",
   "types": "./lib/index.d.ts",
   "scripts": {
